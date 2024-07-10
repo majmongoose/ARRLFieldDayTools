@@ -3,3 +3,4 @@ __pycache__/
 # Ignore existing logfiles
 *.adi
 *.cab
+*.txt
