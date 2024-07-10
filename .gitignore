@@ -4,3 +4,4 @@ __pycache__/
 *.adi
 *.cab
 *.txt
+.DS_Store
