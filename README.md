@@ -11,3 +11,6 @@ ADIF Converter can take command line arguments (input and output file), or it wi
 
 ## squirlConverter
 Squirl converter is a bit simpler to use. Put all of the exported log TXT files into the same directory as the script, and give it an argument for the name of the output file (it will default to "output.txt"). It will also have you enter the header information, and output another single large cabrillo file.
+
+## cabrilloStats
+CabrilloStats is a simple tool to find how many contacts were made per band and mode, which is helpful in submission to the ARRL.
